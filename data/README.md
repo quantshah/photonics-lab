@@ -1,7 +1,5 @@
 # Data files
 
-### Electro-optic comb generation
-
 - 2_OSA_Spectrum_Comb.csv: Optical comb data recorded by OSA ('GPIB3::22::INSTR') with center wavelength 1549.5 nm and spacing of 15.
 
 - 3_displacement_{-1, 0, 1, 2}: Optical power after added dispersion in linear scale measured by OSO.
